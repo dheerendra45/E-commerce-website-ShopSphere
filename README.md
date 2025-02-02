@@ -29,10 +29,4 @@ The app is built using the **MERN stack** (MongoDB, Express.js, React.js, Node.j
 - **Authentication**: JWT (JSON Web Tokens) for secure user authentication and session management
 - **Additional Tools**: Stripe (for payments), Nodemailer (for email notifications)
 
-## Installation
 
-To set up the project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-link>
